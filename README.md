@@ -1,6 +1,6 @@
 - 👋 Hola, soy @ZendrYz
 - 👀 Estoy interesado en la ciberseguridad
-- 🌱 Estoy aprendiendo C++ y Inyecciones SQL
+- 🌱 Estoy aprendiendo React y Inyecciones SQL
 - 📫 Puedes contactar conmigo por Discord: $  ᴢᴇɴᴅʀʏᴢ ᵛʷ,  ᴷᶜ#0911
 
 <!---
