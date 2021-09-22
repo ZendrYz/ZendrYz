@@ -1,6 +1,6 @@
 - 👋 Hola, soy @ZendrYz
 - 👀 Estoy interesado en la ciberseguridad
-- 🌱 Estoy aprendiendo React Inyecciones SQL
+- 🌱 Estoy aprendiendo React e Inyecciones SQL
 - 📫 Puedes contactar conmigo por Discord: ! ZendrYz#0911
 
 <!---
