@@ -1,7 +1,7 @@
 - 👋 Hola, soy @ZendrYz
 - 👀 Estoy interesado en la ciberseguridad
-- 🌱 Estoy aprendiendo React y Inyecciones SQL
-- 📫 Puedes contactar conmigo por Discord: $  ᴢᴇɴᴅʀʏᴢ ᵛʷ,  ᴷᶜ#0911
+- 🌱 Estoy aprendiendo React Inyecciones SQL
+- 📫 Puedes contactar conmigo por Discord: ! ZendrYz#0911
 
 <!---
 ZendrYz/ZendrYz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
